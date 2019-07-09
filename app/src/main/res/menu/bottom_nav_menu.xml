@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_device"
+        android:icon="@drawable/bottom_list_device"
+        android:title="Perangkat Anda"/>
+
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/plus_uncolored"
+        android:title="Tmbh Perangkat"
+        />
+
+    <item
+        android:id="@+id/nav_MyProfile"
+        android:icon="@drawable/profile_flat"
+        android:title="Profil Saya" />
+
+</menu>
